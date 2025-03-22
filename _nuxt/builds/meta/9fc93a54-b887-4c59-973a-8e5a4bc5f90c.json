@@ -1,1 +1,0 @@
-{"id":"9fc93a54-b887-4c59-973a-8e5a4bc5f90c","timestamp":1742648985639,"matcher":{"static":{"/":{"prerender":true},"/news":{"redirect":"/news/ru"},"/news/russian":{"redirect":"/news/ru"},"/news/english":{"redirect":"/news/en"}},"wildcard":{},"dynamic":{}},"prerendered":[]}
